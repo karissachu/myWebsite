@@ -1,0 +1,26 @@
+h1 {
+
+  color: #736CED;
+  font-size: 50px;
+  font-family: Comic Sans MS, Comic Sans;
+}
+h2{
+  color: #736CED;
+  font-size:37.5px;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+h3 {
+  font-size: 25px;
+  color: #736CED;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+body{
+  background-color: #F2DFD7;
+  font-family: Comic Sans MS, Comic Sans;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
